@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DennisseCannobbio
 - 👀 I’m interested in Web Development and C# Development
-- 🌱 I’m currently learning JavaScript, NodeJS and VueJS
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: dennissecannobbio@gmail.com
 
 <!---
