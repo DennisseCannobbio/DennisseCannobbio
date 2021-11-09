@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DennisseCannobbio
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning C# and Angular!
 - 📫 How to reach me: dennissecannobbio@gmail.com
 
 <!---
