@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DennisseCannobbio
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning C# and Angular!
+- 👀 I’m interested in Backend Development and Devops!
+- 🌱 I’m currently learning AWS!.
 - 📫 How to reach me: Dennisse Cannobbio in LinkedIn! 
 
 <!---
